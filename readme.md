@@ -1,4 +1,4 @@
-# 🎄 Christmas Project
+
 
 Overview
 This project integrates data from multiple sources to create a comprehensive Christmas-themed dataset. Using modern ETL tools, cloud technologies, and a data transformation pipeline, the project organizes and processes data about Christmas playlists, movies, sales, and weather trends.
