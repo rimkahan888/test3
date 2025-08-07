@@ -1,0 +1,4 @@
+notebook/
+docker-compose-*.yaml
+logs/*
+__pycache__
